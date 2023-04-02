@@ -135,7 +135,7 @@ p {
 }
 
 a {
-     color: #222222;
+     color: #0400ff;
      text-decoration: none;
      outline: none !important;
 }
@@ -417,7 +417,7 @@ ul.btn li:last-child {
 
 .text-bg h1 {
      color: #fff;
-     font-size: 81px;
+     font-size: 50px;
      line-height: 80px;
      padding-bottom: 45px;
      font-weight: bold;
